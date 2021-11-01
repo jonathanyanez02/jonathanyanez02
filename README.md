@@ -1,4 +1,4 @@
-//Hi, I’m @jonathanyanez02
+//Hi i'm Jonathan :)
 
 //I’m interested in Computer Science and Information Security
 
